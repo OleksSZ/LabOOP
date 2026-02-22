@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\bin\Debug\net10.0\CalculationsExercise.exe
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\bin\Debug\net10.0\CalculationsExercise.deps.json
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\bin\Debug\net10.0\CalculationsExercise.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\bin\Debug\net10.0\CalculationsExercise.dll
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\bin\Debug\net10.0\CalculationsExercise.pdb
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\obj\Debug\net10.0\CalculationsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\obj\Debug\net10.0\CalculationsExercise.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\obj\Debug\net10.0\CalculationsExercise.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\obj\Debug\net10.0\CalculationsExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\obj\Debug\net10.0\CalculationsExercise.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\obj\Debug\net10.0\CalculationsExercise.dll
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\obj\Debug\net10.0\refint\CalculationsExercise.dll
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\obj\Debug\net10.0\CalculationsExercise.pdb
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\obj\Debug\net10.0\CalculationsExercise.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab4\CalculationsExercise\obj\Debug\net10.0\ref\CalculationsExercise.dll

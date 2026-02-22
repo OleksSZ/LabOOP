@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\bin\Debug\net10.0\SegmentCalculator.exe
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\bin\Debug\net10.0\SegmentCalculator.deps.json
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\bin\Debug\net10.0\SegmentCalculator.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\bin\Debug\net10.0\SegmentCalculator.dll
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\bin\Debug\net10.0\SegmentCalculator.pdb
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\obj\Debug\net10.0\SegmentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\obj\Debug\net10.0\SegmentCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\obj\Debug\net10.0\SegmentCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\obj\Debug\net10.0\SegmentCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\obj\Debug\net10.0\SegmentCalculator.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\obj\Debug\net10.0\SegmentCalculator.dll
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\obj\Debug\net10.0\refint\SegmentCalculator.dll
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\obj\Debug\net10.0\SegmentCalculator.pdb
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\obj\Debug\net10.0\SegmentCalculator.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab4\SegmentCalculator\obj\Debug\net10.0\ref\SegmentCalculator.dll
