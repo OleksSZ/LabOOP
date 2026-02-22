@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\bin\Debug\net10.0\NewPract6.exe
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\bin\Debug\net10.0\NewPract6.deps.json
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\bin\Debug\net10.0\NewPract6.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\bin\Debug\net10.0\NewPract6.dll
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\bin\Debug\net10.0\NewPract6.pdb
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\obj\Debug\net10.0\NewPract6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\obj\Debug\net10.0\NewPract6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\obj\Debug\net10.0\NewPract6.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\obj\Debug\net10.0\NewPract6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\obj\Debug\net10.0\NewPract6.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\obj\Debug\net10.0\NewPract6.dll
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\obj\Debug\net10.0\refint\NewPract6.dll
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\obj\Debug\net10.0\NewPract6.pdb
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\obj\Debug\net10.0\NewPract6.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab7\NewPract6\obj\Debug\net10.0\ref\NewPract6.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\bin\Debug\net10.0\Algebra.exe
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\bin\Debug\net10.0\Algebra.deps.json
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\bin\Debug\net10.0\Algebra.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\bin\Debug\net10.0\Algebra.dll
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\bin\Debug\net10.0\Algebra.pdb
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\obj\Debug\net10.0\Algebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\obj\Debug\net10.0\Algebra.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\obj\Debug\net10.0\Algebra.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\obj\Debug\net10.0\Algebra.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\obj\Debug\net10.0\Algebra.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\obj\Debug\net10.0\Algebra.dll
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\obj\Debug\net10.0\refint\Algebra.dll
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\obj\Debug\net10.0\Algebra.pdb
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\obj\Debug\net10.0\Algebra.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab5\Algebra\obj\Debug\net10.0\ref\Algebra.dll

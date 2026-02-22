@@ -4,13 +4,13 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("=== Расчёт шарового сегмента ===\n");
+        Console.WriteLine("=== Розрахунок шарового сегмента ===\n");
 
         // Ввод данных
-        Console.Write("Введите радиус сферы R: ");
+        Console.Write("Введіть радіус сферы R: ");
         double R = double.Parse(Console.ReadLine());
 
-        Console.Write("Введите высоту сегмента H: ");
+        Console.Write("Введіть висоту сегмента H: ");
         double H = double.Parse(Console.ReadLine());
 
         // Вычисления по формулам
@@ -19,12 +19,12 @@ class Program
         double V = Math.PI * H * H * (R - H / 3);
 
         // Вывод результатов
-        Console.WriteLine("\n--- Результаты ---");
-        Console.WriteLine($"Боковая поверхность     Sбок  = {S_bok:F4}");
-        Console.WriteLine($"Полная поверхность      Sполн = {S_poln:F4}");
-        Console.WriteLine($"Объём сегмента          V     = {V:F4}");
+        Console.WriteLine("\n--- Результати ---");
+        Console.WriteLine($"Бокова поверхня     Sбок  = {S_bok:F4}");
+        Console.WriteLine($"Полна поверхня      Sполн = {S_poln:F4}");
+        Console.WriteLine($"Об'єм сегмента          V     = {V:F4}");
         
-        Console.WriteLine("\nНажмите любую клавишу для выхода...");
+        Console.WriteLine("\nНажміть любу клавішу для виходу...");
         Console.ReadKey();
     }
 }

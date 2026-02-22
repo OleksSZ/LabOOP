@@ -21,8 +21,8 @@ namespace OOPExample
         public void PrintTable()
         {
             double distance = CalculateDistance();
-            Console.WriteLine("\nРезультаты:");
-            Console.WriteLine("{0,-10} | {1,-10} | {2,-10}", "Скорость", "Время", "Дистанция");
+            Console.WriteLine("\nРезультати:");
+            Console.WriteLine("{0,-10} | {1,-10} | {2,-10}", "Скорость", "Час", "Дистанция");
             Console.WriteLine(new string('-', 35));
             Console.WriteLine("{0,-10:F1} | {1,-10:F1} | {2,-10:F1}", Speed, Time, distance);
         }
@@ -32,16 +32,16 @@ namespace OOPExample
     {
         public static void ConvertIntToDouble()
         {
-            Console.Write("Введите целое число: ");
+            Console.Write("Введіть ціле число: ");
             if (int.TryParse(Console.ReadLine(), out int number))
             {
                 double converted = number; // неявное преобразование
-                string output = String.Format("Целое: {0}, как double: {1:F1}", number, converted);
+                string output = String.Format("Ціле: {0}, як double: {1:F1}", number, converted);
                 Console.WriteLine(output);
             }
             else
             {
-                Console.WriteLine("Некорректный ввод!");
+                Console.WriteLine("Некорректний ввід!");
             }
         }
     }
@@ -52,27 +52,27 @@ namespace OOPExample
         {
             while (true)
             {
-                Console.WriteLine("\nВыберите действие:");
-                Console.WriteLine("1 - Рассчитать расстояние");
-                Console.WriteLine("2 - Преобразовать целое в double");
-                Console.WriteLine("0 - Выход");
+                Console.WriteLine("\nВиберіть дію:");
+                Console.WriteLine("1 - Розрахувати дистанцію");
+                Console.WriteLine("2 - Преобразовати ціле число в double");
+                Console.WriteLine("0 - Вивід");
 
                 string choice = Console.ReadLine();
 
                 switch (choice)
                 {
                     case "1":
-                        Console.Write("Введите скорость: ");
+                        Console.Write("Введіть швидкість: ");
                         if (!double.TryParse(Console.ReadLine(), out double speed))
                         {
                             Console.WriteLine("Некорректный ввод!");
                             break;
                         }
 
-                        Console.Write("Введите время: ");
+                        Console.Write("Введіть час: ");
                         if (!double.TryParse(Console.ReadLine(), out double time))
                         {
-                            Console.WriteLine("Некорректный ввод!");
+                            Console.WriteLine("Некорректний ввід!");
                             break;
                         }
 
@@ -88,7 +88,7 @@ namespace OOPExample
                         return;
 
                     default:
-                        Console.WriteLine("Неверный выбор!");
+                        Console.WriteLine("Невірний вибір!");
                         break;
                 }
             }

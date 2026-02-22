@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\bin\Debug\net10.0\NewPract4.exe
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\bin\Debug\net10.0\NewPract4.deps.json
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\bin\Debug\net10.0\NewPract4.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\bin\Debug\net10.0\NewPract4.dll
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\bin\Debug\net10.0\NewPract4.pdb
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\obj\Debug\net10.0\NewPract4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\obj\Debug\net10.0\NewPract4.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\obj\Debug\net10.0\NewPract4.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\obj\Debug\net10.0\NewPract4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\obj\Debug\net10.0\NewPract4.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\obj\Debug\net10.0\NewPract4.dll
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\obj\Debug\net10.0\refint\NewPract4.dll
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\obj\Debug\net10.0\NewPract4.pdb
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\obj\Debug\net10.0\NewPract4.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab7\NewPract4\obj\Debug\net10.0\ref\NewPract4.dll
