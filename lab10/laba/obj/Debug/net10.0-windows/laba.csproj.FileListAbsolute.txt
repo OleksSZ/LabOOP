@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab10\laba\obj\Debug\net10.0-windows\laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab10\laba\obj\Debug\net10.0-windows\laba.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab10\laba\obj\Debug\net10.0-windows\laba.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab10\laba\obj\Debug\net10.0-windows\laba.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab10\laba\obj\Debug\net10.0-windows\laba.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab10\laba\bin\Debug\net10.0-windows\laba.exe
+C:\Users\User\Desktop\LabOOP\lab10\laba\bin\Debug\net10.0-windows\laba.deps.json
+C:\Users\User\Desktop\LabOOP\lab10\laba\bin\Debug\net10.0-windows\laba.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab10\laba\bin\Debug\net10.0-windows\laba.dll
+C:\Users\User\Desktop\LabOOP\lab10\laba\bin\Debug\net10.0-windows\laba.pdb
+C:\Users\User\Desktop\LabOOP\lab10\laba\obj\Debug\net10.0-windows\laba.dll
+C:\Users\User\Desktop\LabOOP\lab10\laba\obj\Debug\net10.0-windows\refint\laba.dll
+C:\Users\User\Desktop\LabOOP\lab10\laba\obj\Debug\net10.0-windows\laba.pdb
+C:\Users\User\Desktop\LabOOP\lab10\laba\obj\Debug\net10.0-windows\laba.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab10\laba\obj\Debug\net10.0-windows\ref\laba.dll

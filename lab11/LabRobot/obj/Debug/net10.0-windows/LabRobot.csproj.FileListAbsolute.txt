@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\obj\Debug\net10.0-windows\LabRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\obj\Debug\net10.0-windows\LabRobot.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\obj\Debug\net10.0-windows\LabRobot.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\obj\Debug\net10.0-windows\LabRobot.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\obj\Debug\net10.0-windows\LabRobot.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\bin\Debug\net10.0-windows\LabRobot.exe
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\bin\Debug\net10.0-windows\LabRobot.deps.json
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\bin\Debug\net10.0-windows\LabRobot.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\bin\Debug\net10.0-windows\LabRobot.dll
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\bin\Debug\net10.0-windows\LabRobot.pdb
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\obj\Debug\net10.0-windows\LabRobot.dll
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\obj\Debug\net10.0-windows\refint\LabRobot.dll
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\obj\Debug\net10.0-windows\LabRobot.pdb
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\obj\Debug\net10.0-windows\LabRobot.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab11\LabRobot\obj\Debug\net10.0-windows\ref\LabRobot.dll
