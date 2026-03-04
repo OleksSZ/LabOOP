@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\obj\Debug\net10.0-windows\Laba122.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\obj\Debug\net10.0-windows\Laba122.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\obj\Debug\net10.0-windows\Laba122.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\obj\Debug\net10.0-windows\Laba122.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\obj\Debug\net10.0-windows\Laba122.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\bin\Debug\net10.0-windows\Laba122.exe
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\bin\Debug\net10.0-windows\Laba122.deps.json
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\bin\Debug\net10.0-windows\Laba122.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\bin\Debug\net10.0-windows\Laba122.dll
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\bin\Debug\net10.0-windows\Laba122.pdb
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\obj\Debug\net10.0-windows\Laba122.dll
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\obj\Debug\net10.0-windows\refint\Laba122.dll
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\obj\Debug\net10.0-windows\Laba122.pdb
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\obj\Debug\net10.0-windows\Laba122.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab12\Laba122\obj\Debug\net10.0-windows\ref\Laba122.dll
