@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\obj\Debug\net10.0-windows\MoviesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\obj\Debug\net10.0-windows\MoviesExample.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\obj\Debug\net10.0-windows\MoviesExample.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\obj\Debug\net10.0-windows\MoviesExample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\obj\Debug\net10.0-windows\MoviesExample.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\bin\Debug\net10.0-windows\MoviesExample.exe
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\bin\Debug\net10.0-windows\MoviesExample.deps.json
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\bin\Debug\net10.0-windows\MoviesExample.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\bin\Debug\net10.0-windows\MoviesExample.dll
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\bin\Debug\net10.0-windows\MoviesExample.pdb
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\obj\Debug\net10.0-windows\MoviesExample.dll
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\obj\Debug\net10.0-windows\refint\MoviesExample.dll
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\obj\Debug\net10.0-windows\MoviesExample.pdb
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\obj\Debug\net10.0-windows\MoviesExample.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab17\MoviesExample\obj\Debug\net10.0-windows\ref\MoviesExample.dll
