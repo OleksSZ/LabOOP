@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\bin\Debug\net10.0-windows\SphericalSegmentCalculator.exe
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\bin\Debug\net10.0-windows\SphericalSegmentCalculator.deps.json
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\bin\Debug\net10.0-windows\SphericalSegmentCalculator.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\bin\Debug\net10.0-windows\SphericalSegmentCalculator.dll
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\bin\Debug\net10.0-windows\SphericalSegmentCalculator.pdb
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\obj\Debug\net10.0-windows\SphericalSegmentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\obj\Debug\net10.0-windows\SphericalSegmentCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\obj\Debug\net10.0-windows\SphericalSegmentCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\obj\Debug\net10.0-windows\SphericalSegmentCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\obj\Debug\net10.0-windows\SphericalSegmentCalculator.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\obj\Debug\net10.0-windows\SphericalSegmentCalculator.dll
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\obj\Debug\net10.0-windows\refint\SphericalSegmentCalculator.dll
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\obj\Debug\net10.0-windows\SphericalSegmentCalculator.pdb
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\obj\Debug\net10.0-windows\SphericalSegmentCalculator.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab16\SphericalSegmentCalculator\obj\Debug\net10.0-windows\ref\SphericalSegmentCalculator.dll
