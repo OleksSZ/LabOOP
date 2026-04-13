@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\obj\Debug\net10.0-windows\Lab25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\obj\Debug\net10.0-windows\Lab25.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\obj\Debug\net10.0-windows\Lab25.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\obj\Debug\net10.0-windows\Lab25.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\obj\Debug\net10.0-windows\Lab25.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\bin\Debug\net10.0-windows\Lab25.exe
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\bin\Debug\net10.0-windows\Lab25.deps.json
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\bin\Debug\net10.0-windows\Lab25.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\bin\Debug\net10.0-windows\Lab25.dll
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\bin\Debug\net10.0-windows\Lab25.pdb
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\obj\Debug\net10.0-windows\Lab25.dll
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\obj\Debug\net10.0-windows\refint\Lab25.dll
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\obj\Debug\net10.0-windows\Lab25.pdb
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\obj\Debug\net10.0-windows\Lab25.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab25\Lab25\obj\Debug\net10.0-windows\ref\Lab25.dll
