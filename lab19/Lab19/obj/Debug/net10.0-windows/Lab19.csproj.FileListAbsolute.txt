@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\bin\Debug\net10.0-windows\Lab19.exe
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\bin\Debug\net10.0-windows\Lab19.deps.json
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\bin\Debug\net10.0-windows\Lab19.runtimeconfig.json
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\bin\Debug\net10.0-windows\Lab19.dll
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\bin\Debug\net10.0-windows\Lab19.pdb
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\obj\Debug\net10.0-windows\Lab19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\obj\Debug\net10.0-windows\Lab19.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\obj\Debug\net10.0-windows\Lab19.AssemblyInfo.cs
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\obj\Debug\net10.0-windows\Lab19.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\obj\Debug\net10.0-windows\Lab19.sourcelink.json
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\obj\Debug\net10.0-windows\Lab19.dll
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\obj\Debug\net10.0-windows\refint\Lab19.dll
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\obj\Debug\net10.0-windows\Lab19.pdb
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\obj\Debug\net10.0-windows\Lab19.genruntimeconfig.cache
+C:\Users\User\Desktop\LabOOP\lab19\Lab19\obj\Debug\net10.0-windows\ref\Lab19.dll

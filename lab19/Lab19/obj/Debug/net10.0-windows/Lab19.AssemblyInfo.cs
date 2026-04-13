@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Lab20")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Lab19")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5d754ac240d153467b3fabdc82d4d15e8eb8953")]
-[assembly: System.Reflection.AssemblyProductAttribute("Lab20")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Lab20")]
+[assembly: System.Reflection.AssemblyProductAttribute("Lab19")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Lab19")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
