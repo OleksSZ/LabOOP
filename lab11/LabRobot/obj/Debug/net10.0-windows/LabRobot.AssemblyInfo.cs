@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabRobot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cb4150f600d9e09902d0b460beb289659e73e02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9291ba7c1d8c34137ac97610ac58d807165df89d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabRobot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabRobot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

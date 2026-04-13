@@ -7,7 +7,7 @@ namespace LabRobot
 {
     public partial class Form2 : Form
     {
-        [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
+        // [DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         public Form1? MainForm { get; set; }
 
         public Form2()
@@ -15,14 +15,19 @@ namespace LabRobot
             InitializeComponent();
         }
 
+
         private void btnClose_Click(object sender, EventArgs e)
         {
+
             this.Close();
         }
+        
 
         private void rbTextRed_CheckedChanged(object sender, EventArgs e)
         {
             if (rbTextRed.Checked && MainForm != null) MainForm.SetTextColor(Color.Red);
+
+            MainForm.;
         }
 
         private void rbTextGreen_CheckedChanged(object sender, EventArgs e)
